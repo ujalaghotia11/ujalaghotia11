@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujala Choudhary</h1>
 <h3 align="center">MCA '28 Student | Software Engineering Enthusiast | Mastering Java & DSA</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujalaghotia11&style=flat-square&color=007ACC" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-brightgreen?style=flat-square" alt="Status"/>
-</p>
+
 
 ---
 
